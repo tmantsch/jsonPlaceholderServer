@@ -10,8 +10,7 @@
   ],
   "profile": {
     "name": "typicode"
-  }
-  {
+  },
   "clients": [
     {
       "id": "59761c23b30d971669fb42ff",
@@ -47,5 +46,4 @@
       "address": "697 Linden Boulevard, Sattley, Idaho, 1035"
     }
   ]
-}
 }
